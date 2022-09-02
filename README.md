@@ -4,7 +4,7 @@
 - 该项目自外立面开始施工起，业主发现在建的楼栋外立面出现明显凹凸不平、鼓包、透底、颜色不一等情况。多次向开发商和区质监站投诉反馈后，均被以检测合格为由搪塞，拒不整改，肉眼可见的外立面不平整问题视而不见听而不闻，指鹿为马，外立面观感质量不如回迁房。
 
 ## 2022 年 9 月照
-![image1](image/exterior_wall/2022_09/WechatIMG3453.jpeg)
+![outwall1](image/exterior_wall/2022_09/WechatIMG3453.jpeg)
 
 
 
@@ -23,6 +23,8 @@
 
 
 # 媒体声音
+![news1](image/news/Screen Shot 2022-09-02 at 10.20.19.png)
+![news2](image/news/Screen Shot 2022-09-02 at 10.20.45.png)
 
 # 投诉渠道
 - 12345
