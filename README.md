@@ -39,6 +39,9 @@
 ![news1](image/news/weibo1.png)
 ![news2](image/news/weibo2.png)
 
+[微博-京能电建洺悦湾怎么了](https://m.weibo.cn/u/3939078745?from=10C9095010&wm=9006_2001&sourceType=weixin)
+
+
 # 投诉渠道
 - 12345
 - 领导留言板
@@ -73,6 +76,10 @@
 - 电建西山源著
 - 京能龙湖熙上
 - 京能西山印
+- 小瓦窑华曦府
+
+# 素材引用
+部分图片来自网络，如有侵权请联系 623414533@qq.com 删除。
 
 
 
