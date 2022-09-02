@@ -23,8 +23,8 @@
 
 
 # 媒体声音
-![news1](image/news/Screen Shot 2022-09-02 at 10.20.19.png)
-![news2](image/news/Screen Shot 2022-09-02 at 10.20.45.png)
+![news1](image/news/weibo1)
+![news2](image/news/weibo2)
 
 # 投诉渠道
 - 12345
