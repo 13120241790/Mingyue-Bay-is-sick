@@ -54,7 +54,7 @@
 
 # 法律
 - 洺悦湾全体业主将保留法律手段合法维护自己的权益
-![law](image/othder/lawletter.png)
+![law](image/other/lawletter.png)
 
 # 洺悦湾诗集
 
