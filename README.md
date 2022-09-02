@@ -14,6 +14,8 @@
 
 ## 2022 年 9 月照
 ![outwall1](image/exterior_wall/2022_09/WechatIMG3453.jpeg)
+![outwall2](image/exterior_wall/2022_09/WechatIMG3451.jpeg)
+![outwall3](image/exterior_wall/2022_09/WechatIMG207.jpeg)
 
 
 
