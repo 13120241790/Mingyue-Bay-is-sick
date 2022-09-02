@@ -56,6 +56,11 @@
 - 洺悦湾全体业主将保留法律手段合法维护自己的权益
 ![law](image/other/lawletter.png)
 
+## 地方法规
+[京建发〔2022〕134号《北京市住房和城乡建设委员会关于进一步加强房屋建筑外墙外保温工程施工质量管理工作的通知》](http://zjw.beijing.gov.cn/bjjs/gcjs/tzgg36/325818509/index.shtml)
+![loacl_law](image/other/local_law.png)
+
+
 # 洺悦湾诗集
 
 ```java
