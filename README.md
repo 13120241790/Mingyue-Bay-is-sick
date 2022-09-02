@@ -1,5 +1,8 @@
 # Mingyue-Bay-is-sick
 京能电建洺悦湾生病了
+![project1](image/project/project1.png)
+![project2](image/project/project2.png)
+
 # 触目惊心的病况
 
 ```java
