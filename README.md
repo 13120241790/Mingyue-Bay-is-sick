@@ -23,8 +23,8 @@
 
 
 # 媒体声音
-![news1](image/news/weibo1)
-![news2](image/news/weibo2)
+![news1](image/news/weibo1.png)
+![news2](image/news/weibo2.png)
 
 # 投诉渠道
 - 12345
