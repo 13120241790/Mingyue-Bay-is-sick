@@ -16,7 +16,7 @@
 ![outwall8](image/exterior_wall/2022_09/WechatIMG4950.jpeg)
 ![outwall7](image/exterior_wall/2022_09/WechatIMG4953.jpeg)
 ![outwall6](image/exterior_wall/2022_09/WechatIMG4960.jpeg)
-![outwall5](image/exterior_wall/2022_09/WechatIMG4994.jpeg)
+![outwall5](image/exterior_wall/2022_09/WechatIMG4994.png)
 ![outwall4](image/exterior_wall/2022_09/WechatIMG1703.jpeg)
 
 
