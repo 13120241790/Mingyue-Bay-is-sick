@@ -18,11 +18,6 @@
 ![outwall6](image/exterior_wall/2022_09/WechatIMG4960.jpeg)
 ![outwall5](image/exterior_wall/2022_09/WechatIMG4994.jpeg)
 ![outwall4](image/exterior_wall/2022_09/WechatIMG1703.jpeg)
-![outwall1](image/exterior_wall/2022_09/WechatIMG3453.jpeg)
-![outwall2](image/exterior_wall/2022_09/WechatIMG3451.jpeg)
-![outwall3](image/exterior_wall/2022_09/WechatIMG207.jpeg)
-
-
 
 
 # 项目概况
@@ -67,6 +62,12 @@
 大兴区(综治办)监督投诉电话：010-69261330 
 大兴区住建委行政办公室：010-69243727
 
+之前咱们的问题可能一直停留在质监站(住建委下设所属机构)，可能质监站都捂住了都还没向上反映到大兴区住建委去。今天发动邻居打电话综治办的工作人员姓 龙。愿意接受和协调我们的诉求反映，接受我们到住建委的办公室(北京市大兴区兴政街29号建设大厦225办公室)去谈，而且他说如果有必要也可以把质监站的相关人也请过来
+现在需要我们做两点： 
+1 派 2 名业主代表需要口才好的能把事情讲清楚的、或者有专业逻辑知识的去办公室协商解决问题，能把我们诉求表达清楚 
+2 整理书面材料、证据，简明扼要，带图，带过去
+
+在工作日过去
 
 # 投诉渠道
 - 12345
